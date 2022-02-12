@@ -1,0 +1,1 @@
+{"ast":null,"code":"import MeetupDetail from \"../../components/meetups/MeetupDetail\";","map":{"version":3,"sources":["/Users/lixiong/Desktop/next/pages/[meetupId]/index.js"],"names":["MeetupDetail"],"mappings":"AAAA,OAAOA,YAAP,MAAyB,uCAAzB","sourcesContent":["import MeetupDetail from \"../../components/meetups/MeetupDetail\";\n"]},"metadata":{},"sourceType":"module"}
